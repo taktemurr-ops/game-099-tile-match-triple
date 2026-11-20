@@ -1,0 +1,1 @@
+tile match,triple,mahjong,zen match,puzzle
