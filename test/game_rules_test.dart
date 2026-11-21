@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:game_099_tile_match_triple/core/arcade.dart';
-import 'package:game_099_tile_match_triple/core/level_plan.dart';
+import 'package:studio_core/core/arcade.dart';
+import 'package:studio_core/core/level_plan.dart';
 import 'package:game_099_tile_match_triple/game/casual_engine.dart';
 import 'package:game_099_tile_match_triple/game/rules.dart';
 
